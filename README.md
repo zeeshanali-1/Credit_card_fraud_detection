@@ -1,4 +1,5 @@
 Credit card fraud detection
+
 Credit card fraaud is a significant problem for financial institutions and their customers. The main challenge for financial institutions is to detect fraudulent transactions in real time while minimizing false positives.
 
 The primary aim of the project is to develop a machine learning model that can accurately detect fraudulent credit card transactions while minimizing false positives. The model has been trained on historical data, which has been used to identify patterns and anomalies in the data that can indicate fraudulent behavior. Here, we have used the dataset that has been taken from Kaggle which can be accessed using the link "https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fmlg-ulb%2Fcreditcardfraud%3Fselect%3Dcreditcard.csv".
